@@ -1,3 +1,5 @@
+![Display Name](https://github.com/imtahirnaseer/imtahirnaseer/blob/ac825a056e1bc184a95e338f18049e8dad296f2c/IMG_20241122_212622%5B1%5D.jpg).
+
 <h1 align="center">Hi 👋, I'm Tahir Naseer</h1>
 <h3 align="center">A passionate Software Engineer & Cyber Security Engineer from India</h3>
 
