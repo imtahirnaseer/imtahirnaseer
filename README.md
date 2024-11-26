@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms using C and OOPs Using C++**
 
-- 👯 I’m currently completed the Mini Project [Snake Game J&K](https://imtahirnaseer.github.io/Snake-Game.jk/)
+- 👯 I’m currently completed the Mini Project [Snake Game J&K](https://imtahirnaseer.github.io/TahirGPT/)
 
 - 🤝 I’m looking for help with Murad460 [No Decide](https://github.com/Murad460/INFI-NITY.git)
 
