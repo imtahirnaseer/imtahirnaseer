@@ -60,3 +60,47 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtahirnaseer&show_icons=true&locale=en" alt="imtahirnaseer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtahirnaseer&" alt="imtahirnaseer" /></p>
+
+
+## Featured Projects
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/imtahirnaseer/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtahirnaseer&theme=dracula&hide_border=true&show_icons=true&repo=Portfolio" alt="Website" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imtahirnaseer/Scientific-Calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtahirnaseer&theme=dracula&hide_border=true&show_icons=true&repo=Scientific-Calculator" alt="Calculator" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/imtahirnaseer/Login-to-Website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtahirnaseer&theme=dracula&hide_border=true&show_icons=true&repo=Login-to-website" alt="Login Page" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imtahirnaseer/TahirGPT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtahirnaseer&theme=dracula&hide_border=true&show_icons=true&repo=TahirGPT" alt="TahirGPT - AI ChatBot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/imtahirnaseer/Programming-Source-Code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtahirnaseer&theme=dracula&hide_border=true&show_icons=true&repo=Programming-Source-Code" alt="Language Learning App" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/imtahirnaseer/Java-Quiz-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=imtahirnaseer&theme=dracula&hide_border=true&show_icons=true&repo=Java-Quiz-App" alt="Java Quiz App" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
