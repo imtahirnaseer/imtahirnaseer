@@ -9,11 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/imtahirnaseer" target="blank"><img src="https://img.shields.io/twitter/follow/imtahirnaseer?logo=twitter&style=for-the-badge" alt="imtahirnaseer" /></a> </p>
 
-- 🔭 I’m currently working on Mini Project [Tic-Tac-Toe Game](https://imtahirnaseer.github.io/Tic-Tac-Toe/)
+- 👯 I’m currently completed the Project [Personal Website](https://imtahirnaseer.github.io/Portfolio/)
+
+- 🔭 I’m currently working on Mini Project [TahirGPT - AI Chatbot](https://imtahirnaseer.github.io/TahirGPT/)
 
 - 🌱 I’m currently learning **Data Structure & Algorithms using C and OOPs Using C++**
 
-- 👯 I’m currently completed the Mini Project [TahirGPT](https://imtahirnaseer.github.io/TahirGPT/)
 
 - 🤝 I’m looking for help with Murad460 [No Decide](https://github.com/Murad460/INFI-NITY.git)
 
