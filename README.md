@@ -1,4 +1,4 @@
-![Display Name](https://github.com/imtahirnaseer/imtahirnaseer/blob/ac825a056e1bc184a95e338f18049e8dad296f2c/IMG_20241122_212622%5B1%5D.jpg).
+![Display Name](https://github.com/imtahirnaseer/imtahirnaseer/blob/1d39e29e7b9eece9b71654c747bc415da2714084/My_Name_Calligraphy-removebg-preview.png).
 
 <h1 align="center">Hi 👋, I'm Tahir Naseer</h1>
 <h3 align="center">A passionate Software Engineer & Cyber Security Engineer from India</h3>
